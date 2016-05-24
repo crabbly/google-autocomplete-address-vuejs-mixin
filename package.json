@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "vue": "^1.0.24",
+    "webpack": "^1.13.1"
+  },
+  "name": "google_autocomplete_vue_mixin",
+  "description": "Vue.js Mixin: Google Maps Autocomplete for Addresses.",
+  "version": "1.0.0",
+  "main": "googleAutocomplete.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crabbly/google-autocomplete-address-vuejs-mixin.git"
+  },
+  "author": "Rodrigo Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crabbly/google-autocomplete-address-vuejs-mixin/issues"
+  },
+  "homepage": "https://github.com/crabbly/google-autocomplete-address-vuejs-mixin#readme"
+}

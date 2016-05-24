@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Google Maps Autocomplete for Addresses</title>
+    <style>
+        input {
+            padding:5px; width:400px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="demo">
+    <p><i>myInstanceAddress</i> Property</p>
+    <pre>{{ myInstanceAddress | json }}</pre>
+    <input id="addressInput" type="text" />
+</div>
+
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
+<script src="app.min.js" type="text/javascript"></script>
+
+</body>
+</html>
